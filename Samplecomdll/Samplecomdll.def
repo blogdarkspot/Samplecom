@@ -1,0 +1,5 @@
+LIBRARY Samplecomdll
+
+EXPORTS
+
+createInstance = _createInstance@8
